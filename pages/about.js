@@ -1,9 +1,9 @@
 import NavBar from "../components/NavBar";
 
-export default function Home () {
+export default function About () {
     return (
         <div>
-            <h1> Hi NextJs</h1>
+            <h1>About Page</h1>
             <NavBar />
         </div>
     )
